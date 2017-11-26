@@ -1,40 +1,53 @@
-#Introduction to GEOG576
-##Syllabus
+# Introduction to GEOG576
 
-##Course Schedule
+## Syllabus
+---------------------
+
+## Course Schedule
+---------------------
 
 **Week 1:**
   - Assignments
   - Quizzes
   - Labs
+
 **Week 2:**
   - Assignments
   - Quizzes
   - Labs
+
 **Week 3:**
   - Assignments
   - Quizzes
   - Labs
+
 **Week 4:**
   - Assignments
   - Quizzes
   - Labs
+
 **Week 5:**
   - Assignments
   - Quizzes
   - Labs
+
 **Week 6:**
   - Assignments
   - Quizzes
   - Labs
-  
 
-##Quizzes
 
-##Labs
+## Quizzes
+---------------------
 
-##Final Project
+## Labs
+---------------------
 
-##References
+## Final Project
+---------------------
 
-##BookList
+## References
+---------------------
+
+## BookList
+---------------------
